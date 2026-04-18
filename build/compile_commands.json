@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/GrowUp/CodePractice/CppLearning/huffman_code/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\HuffmanCode.dir\\main.cpp.obj -c E:\\GrowUp\\CodePractice\\CppLearning\\huffman_code\\main.cpp",
+  "file": "E:/GrowUp/CodePractice/CppLearning/huffman_code/main.cpp",
+  "output": "CMakeFiles/HuffmanCode.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/GrowUp/CodePractice/CppLearning/huffman_code/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\HuffmanCode.dir\\huffman.cpp.obj -c E:\\GrowUp\\CodePractice\\CppLearning\\huffman_code\\huffman.cpp",
+  "file": "E:/GrowUp/CodePractice/CppLearning/huffman_code/huffman.cpp",
+  "output": "CMakeFiles/HuffmanCode.dir/huffman.cpp.obj"
+}
+]
