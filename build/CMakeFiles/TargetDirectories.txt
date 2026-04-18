@@ -1,3 +1,0 @@
-E:/GrowUp/CodePractice/CppLearning/huffman_code/build/CMakeFiles/HuffmanCode.dir
-E:/GrowUp/CodePractice/CppLearning/huffman_code/build/CMakeFiles/edit_cache.dir
-E:/GrowUp/CodePractice/CppLearning/huffman_code/build/CMakeFiles/rebuild_cache.dir
